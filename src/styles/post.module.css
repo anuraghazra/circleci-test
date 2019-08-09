@@ -1,0 +1,36 @@
+.post {
+  margin: 50px 0;
+  padding: 30px 50px;
+  line-height: 30px;
+  background-color: white;
+  box-shadow: 0 0 20px 5px rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
+
+.header {
+  color: #303030;
+}
+
+.info {
+  color: gray;
+}
+
+.thumbnail {
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+  height: 300px;
+} 
+
+.description {
+  color: #1f1f1f;
+  margin: 20px 0;
+}
+
+.link {
+  color: white;
+  padding: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  background-color: #0059ff;
+}
