@@ -19,6 +19,8 @@ const IndexPage = () => (
     <h2>Side Project</h2>
     <Project />
     <Project />
+    <Project />
+    <Project />
 
     {/* <StaticQuery query={indexQuery} render={(data) => {
       return (
